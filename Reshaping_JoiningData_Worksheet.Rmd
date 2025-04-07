@@ -72,6 +72,10 @@ Pivoted Data
 
 #### Plots of the Numbers
 
+*Plot the white powerball numbers (not including the powerball) for each drawing in 2017 showing how the values of balls (from lowest to highest) vary over time. Add a trend line for each rank (from lowest to highest).*
+
+
+
 Unpivoted Data
 ```{r}
 
